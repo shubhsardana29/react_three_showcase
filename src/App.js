@@ -8,7 +8,7 @@ import { Canvas, useLoader } from '@react-three/fiber';
 import { MapControls, OrbitControls, Sky, Stars } from '@react-three/drei';
 
 // Import Assets
-import MetalMap from './assets/MetalMap.png';
+import MetalMap from './assets/MetalMap.jpeg';
 import MetalNormalMap from './assets/MetalNormalMap.png';
 
 // Import CSS
